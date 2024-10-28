@@ -112,9 +112,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - PST Utils team for the readpst utility
 - Contributors and maintainers
-
-## 📞 Support
-
-- Open an issue for bug reports or feature requests
-- Check existing issues before creating new ones
-- Provide detailed information when reporting issues
